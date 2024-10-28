@@ -49,7 +49,6 @@ public class PenghitungOngkosKirimRefactoring {
         System.out.println("Total ongkos kirim ke " + tujuan + " adalah: Rp " + totalBiaya);
 
         input.close();
-        dis
     }
 
 }
